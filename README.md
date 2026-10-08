@@ -113,13 +113,6 @@ After successfully authenticating as the administrator through the modified sess
 
 The flag was available after gaining administrator access.
 
-```text
-FLAG{REDACTED}
-```
-
-> The actual flag can be included here if this repository is private. If the write-up is public, consider redacting it.
-
----
 
 # Vulnerability Analysis
 
